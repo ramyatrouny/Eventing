@@ -1,0 +1,16 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "test name",
+            "slug": "slug",
+            "venue": "venue",
+            "address": "address",
+            "performers": "performers",
+            "date": "June 10",
+            "time": "10:00 PM ESt",
+            "description": "featuring deep cuts",
+            "image": "/images/sample/event1.jpg"
+        }
+    ]
+}
